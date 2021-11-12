@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://bhobo.github.io/b.hobo.github.io/atom.xml" rel="self"/>
+  <link href="https://bhobo.github.io/atom.xml" rel="self"/>
   
-  <link href="https://bhobo.github.io/b.hobo.github.io/"/>
+  <link href="https://bhobo.github.io/"/>
   <updated>2021-11-11T08:21:00.182Z</updated>
-  <id>https://bhobo.github.io/b.hobo.github.io/</id>
+  <id>https://bhobo.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://bhobo.github.io/b.hobo.github.io/2021/11/11/hello-world/"/>
-    <id>https://bhobo.github.io/b.hobo.github.io/2021/11/11/hello-world/</id>
+    <link href="https://bhobo.github.io/2021/11/11/hello-world/"/>
+    <id>https://bhobo.github.io/2021/11/11/hello-world/</id>
     <published>2021-11-11T08:21:00.182Z</published>
     <updated>2021-11-11T08:21:00.182Z</updated>
     
